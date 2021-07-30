@@ -15,7 +15,7 @@ So given the plain text word "code", you get the Braille dots:
     00  01  01  01
     00  10  00  00
 
-The braille image:
+The braille alphabet for "code":
 
 ![braille code](https://user-images.githubusercontent.com/38213112/127669391-a7cf6c2b-d05b-44e4-ad83-c59599714c34.png)
 
