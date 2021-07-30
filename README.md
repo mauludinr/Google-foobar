@@ -1,1 +1,1 @@
-# google-foobar
+# Google Foobar Challenges
