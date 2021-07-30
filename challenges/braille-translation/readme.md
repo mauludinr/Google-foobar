@@ -15,6 +15,10 @@ So given the plain text word "code", you get the Braille dots:
     00  01  01  01
     00  10  00  00
 
+The braille image:
+    
+    ![alt text](http://url/to/img.png)
+
 The text word "code":
 
     c = 100100
