@@ -31,7 +31,6 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 --- Python cases ---
-====================
 Input:
 
     solution.solution("code")
@@ -58,12 +57,12 @@ Output:
 
 
 --- Java cases ---
-==================
+
 Input:
 
     Solution.solution("code")
     
-Output:
+Output:     
 
     "100100101010100110100010"
 
