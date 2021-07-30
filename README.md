@@ -8,5 +8,5 @@ I want to play and solve some code
 ![inside braille](https://user-images.githubusercontent.com/38213112/127672446-19d96c37-dfa3-46a7-9a16-08ebb120e6a8.png)
 
 # Challenges
-[Braille Translation](challenges/braille-translation)
+- [Braille Translation](challenges/braille-translation)
 
