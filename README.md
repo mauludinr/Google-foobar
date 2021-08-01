@@ -3,7 +3,7 @@ This repository is filled with my progress about coding challenge named google f
 
 ![braille](https://user-images.githubusercontent.com/38213112/127672428-cc575dad-ca1f-4753-9124-4adafaf7ce6a.png)
 
-I want to play, solve some code, and train my programming skills
+I am excited about that. I want to train my programming skills, so i click I want to play, and then i got a challenge that need to be solved
 
 ![inside braille](https://user-images.githubusercontent.com/38213112/127672446-19d96c37-dfa3-46a7-9a16-08ebb120e6a8.png)
 
