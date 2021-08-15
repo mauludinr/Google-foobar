@@ -13,4 +13,4 @@ I am excited about that, so i click "I want to play", and then i got a challenge
 
 ## Credit
 ![rabbit2](https://user-images.githubusercontent.com/38213112/127675777-1601637d-384c-46ac-8076-85bd4cf61872.png)
-![View](https://komarev.com/ghpvc/?username=mauludinr)
+![View](https://komarev.com/ghpvc/?username=mauludinr&label=View)
