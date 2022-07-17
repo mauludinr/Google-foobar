@@ -10,7 +10,7 @@ I am excited about that, so i click "I want to play", and then i get a challenge
 ## Challenges
 - [Braille Translation](challenges/braille-translation)
 - [Ion Flox Relabeling](challenges/ion-flux-relabeling)
-- [Hey-I-Already-Did-That](challenges/hey-i-already-did-that)
+- [Hey, I Already Did That!](challenges/hey-i-already-did-that)
 
 ## Credit
 ![rabbit2](https://user-images.githubusercontent.com/38213112/127675777-1601637d-384c-46ac-8076-85bd4cf61872.png)
