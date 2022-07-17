@@ -38,17 +38,28 @@ Output:
 ```
 
 Input:
-`Solution.solution('1211', 10)
+```
+Solution.solution('1211', 10)
+```
 Output:
-`1`
+```
+1
+```
 
 -- Python cases --
 Input:
+```
 solution.solution('1211', 10)
+```
 Output:
-    1
-
+```
+1
+```
 Input:
+```
 solution.solution('210022', 3)
+```
 Output:
-    3
+```
+3
+```
