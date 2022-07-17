@@ -29,9 +29,9 @@ Note that it may also be run against hidden test cases not shown here.
 
 -- Java cases --
 Input:
-`Solution.solution('210022', 3)`
+```Solution.solution('210022', 3)```
 Output:
-`3`
+```3```
 
 Input:
 `Solution.solution('1211', 10)
